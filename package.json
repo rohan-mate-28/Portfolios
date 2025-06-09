@@ -1,6 +1,7 @@
 {
   "name": "carrer",
   "private": true,
+  "homepage": "https://rohan-mate-28.github.io/Portfolios/", 
   "version": "0.0.0",
   "type": "module",
  "scripts": {
