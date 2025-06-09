@@ -5,7 +5,7 @@ const Navbar = () => {
   const [open, setopen] = useState(false);
 
   return (
-    <nav className="flex justify-between items-center px-6 py-4 bg-white shadow-md relative">
+    <nav className=" sticky top-0 z-50 bg-white shadow-md flex justify-between items-center px-6 py-4 bg-white shadow-md relative">
       <div className='text-2xl font-bold text-gray-800'>
         Zenvio Tech
       </div>
