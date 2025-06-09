@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="flex justify-between items-center px-6 py-4 bg-white shadow-md relative">
       <div className='text-2xl font-bold text-gray-800'>
-        Zenvio Tech
+        Zenvio <span className='italic text-red-500'>Teach</span>  
       </div>
 
       {/* Nav Links */}
